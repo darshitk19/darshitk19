@@ -75,12 +75,13 @@
      width="48%" 
 />
 
-<!-- REAL TOP LANGUAGES -->
-<img 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitk19&layout=compact&theme=tokyonight" 
-     width="48%" 
-/>
+### 📊 Most Used Languages
 
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitk19&layout=compact&theme=tokyonight" 
+       width="55%" 
+  />
 </div>
 
 ---
